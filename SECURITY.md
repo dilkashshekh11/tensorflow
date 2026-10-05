@@ -184,4 +184,4 @@ We will try to fix the problems as soon as possible. Vulnerabilities will, in
 general, be batched to be fixed at the same time as a quarterly release. We
 credit reporters for identifying security issues, although we keep your name
 confidential if you request it. Please see Google Bug Hunters program website
-for more info.
+for more info..
